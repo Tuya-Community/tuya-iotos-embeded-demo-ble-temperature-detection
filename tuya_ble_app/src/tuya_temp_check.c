@@ -11,11 +11,11 @@
  *
  */
 
-#include "temp_check.h"
+#include "tuya_temp_check.h"
 #include "gpio_8258.h"
 #include "tuya_ble_api.h"
 #include "timer.h"
-#include "app_adc.h"
+#include "tuya_app_adc.h"
 
 
 #define R25		10000		//NTC resistance at 25°„C 10K

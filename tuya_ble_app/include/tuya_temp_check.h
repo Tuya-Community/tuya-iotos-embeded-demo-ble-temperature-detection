@@ -11,8 +11,8 @@
  *
  */
 
-#ifndef TEMP_CHECK_H_
-#define TEMP_CHECK_H_
+#ifndef TUYA_TEMP_CHECK_H_
+#define TUYA_TEMP_CHECK_H_
 
 #include "tuya_ble_log.h"
 #include "adc.h"

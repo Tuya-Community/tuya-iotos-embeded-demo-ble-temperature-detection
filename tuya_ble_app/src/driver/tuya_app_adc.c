@@ -1,4 +1,3 @@
-//#include "app_pir_light.h"
 #include "adc.h"
 #define LUX_ADC_PIN GPIO_PB6
 
