@@ -53,15 +53,13 @@
 
 |              文件名              |                            功能                             |
 | :------------------------------: | :---------------------------------------------------------: |
-|       tuya_ble_app_demo.c        | application 示例主文件，存放 SDK 初始化函数、消息处理函数等 |
-|       tuya_ble_app_demo.h        |                           头文件                            |
-|        tuya_ble_app_ota.c        |                        OTA 相关代码                         |
-|        tuya_ble_app_ota.h        |                           头文件                            |
-|    custom_app_product_test.c     |                   自定义产测项目相关实现                    |
-|    custom_app_product_test.h     |                           头文件                            |
-| custom_app_uart_common_handler.c |           UART 通用对接实现代码文件，不使用可忽略           |
-| custom_app_uart_common_handler.h |                           头文件                            |
-|     custom_tuya_ble_config.h     |                    application 配置文件                     |
+|       tuya_ble_app_main.c        | application 示例主文件，存放 SDK 初始化函数、消息处理函数等 |
+|       tuya_ble_app_main.h        |                           头文件                            |
+|        tuya_app_adc.c            |                       adc 相关代码                         |
+|        tuya_app_adc.h            |                           头文件                            |
+|       tuya_temp_check.c          |                   温度检测demo逻辑                    |
+|       tuya_temp_check.h          |                           头文件                            |
+
 
 
 
